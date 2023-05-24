@@ -85,7 +85,7 @@ GROUP_ID="your_group_id"
 <a name="vk_api"></a>
 ##### `vk_api`
 
-Выполняить запрос к API ВКонтакте.
+Выполнить запрос к API ВКонтакте.
 
 ```sh
 vk_api METHOD_NAME --ARG VALUE # or
