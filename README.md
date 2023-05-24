@@ -45,7 +45,7 @@ vk_bots_long_poll | while read -r event; do (
 <a name="installation"></a>
 ### ⚙️ Установка
 ```sh
-git clone https://github.com/bulatov/vk.sh.git
+git clone https://github.com/bulatovv/vk.sh.git
 ```
 
 Также требуется установить следующие зависимости:
